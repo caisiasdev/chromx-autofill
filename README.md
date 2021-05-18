@@ -17,4 +17,16 @@ To load extension, open Google Chrome Browser and enter **chrome://extensions** 
 
 Step 3(b): Select the **chromx-autofill-master** folder and click select. And you are good to go.
 
--- Thanks and Regards
+
+# Using the Chome Extension
+To use the chrome extension we create an angular application and host at Heroku. We thanks heroku team for this.
+
+After installing the chrome extension open the url https://chromx-olsam-coder.herokuapp.com/ with Google chrome browser, and start testing the Chromex-Autofill. 
+
+# Extra
+You can create your own list of data using Excel and do the testing with the App.
+To download the excel format goto https://drive.google.com/drive/folders/1rjqsnG2ettPmyTvSAJ3BpnrztlzCbqZQ and download the excel (csv) files.
+
+
+_I hope you find the app usefull. Thanks and Regards_
+The Olsam Coder - _Coding the Easy Way_
