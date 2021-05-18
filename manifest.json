@@ -1,0 +1,25 @@
+{
+
+	"name": "Olsam Auto - UIDAI & PMKisan Helper",
+	"description": "With this Expension you can verify Aadhaar Number with UIDAI Website and Track Status of PM Kisan with ease.",
+  "author": "Olsam Coder - Coding the Easy Way",
+  "icons": {
+    "20":"./img/ols.png",
+    "40":"./img/ols.png",
+    "128":"./img/ols.png"
+  },
+	  "version": "1.0.2",
+      "manifest_version": 2,
+      "content_scripts": [
+        {
+          "matches": [
+            "*://resident.uidai.gov.in/verify*",
+             "*://resident.uidai.gov.in/offline-kyc*",
+             "*://pmkisan.gov.in/*",
+             "*://www.pmkisan.gov.in/*"
+          ],
+          "js": ["index.js"]
+        }
+      ]
+
+}
