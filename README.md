@@ -27,6 +27,10 @@ After installing the chrome extension open the url https://chromx-olsam-coder.he
 You can create your own list of data using Excel and do the testing with the App.
 To download the excel format goto https://drive.google.com/drive/folders/1rjqsnG2ettPmyTvSAJ3BpnrztlzCbqZQ and download the excel (csv) files.
 
+# Youtube Channel
+You can check out our youtube channel to see this coding tutorial in action:
+https://www.youtube.com/channel/UCWln4nHkCUjM1B1RJRglNvA
+
 
 _I hope you find the app usefull. Thanks and Regards_
 The Olsam Coder - _Coding the Easy Way_
